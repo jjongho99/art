@@ -21,7 +21,7 @@ function setup() {
 }
 
 function draw() {
-  image(img,750,0,750,560);
+  image(img,790,0,790,560);
 }
 
 function mousePressed() {
