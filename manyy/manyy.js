@@ -6,7 +6,7 @@ function setup() {
   c[1] = '#0E37C6';
   c[2] = '#EA053E';
   
-  createCanvas(1400,560);
+  createCanvas(1500,560);
   img= loadImage('many.png');
   stroke(128);
   strokeWeight(3);
@@ -21,7 +21,7 @@ function setup() {
 }
 
 function draw() {
-  image(img,700,0,700,560);
+  image(img,750,0,750,560);
 }
 
 function mousePressed() {
